@@ -1,0 +1,59 @@
+/* TEXT */
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+/* TEXT COLOUS */
+.color-red{
+    color: red;
+}
+
+/* TEXT SIZE */
+.tx-40{
+    font-size: 40px;
+}
+
+/* MARGINS */
+.mx-auto{
+    margin: auto;
+}
+
+
+.mx-top-10{
+    margin-top: 10px;
+}
+
+/* WIDTH */
+.mw-40{
+    width: 40vw;
+}
+
+/* BACKGROUNDS */
+.bg-red{
+    background-color: red;
+}
+
+/* FLEX */
+.flex-row{
+    display: flex;
+}
+
+.flex-column{
+    display: flex; flex-direction: column;
+    
+}
+
+.flex-center{
+    align-items: center; justify-content: center;
+}
+
+/* BORDER */
+.br-red{
+    border: 2px solid red;
+}
+
+

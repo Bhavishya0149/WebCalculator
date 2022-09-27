@@ -1,0 +1,29 @@
+*{
+    margin: 0px; padding: 0px;
+    font-size: 1.2rem;
+}
+
+body{
+    background-color: black;
+}
+
+.button{
+    padding: 2%; margin: 5px 0px;
+    border-radius: 50%; width: 5vw; 
+    height: 5vw;
+}
+
+.hover-style:hover{
+    background-color: yellow; color: red;
+    cursor: pointer;
+}
+
+.button-0{
+    width: 10vw; border-radius: 5vw;
+}
+
+.button-display{
+    margin: 5px 0px; 
+    height: 5vw;
+    width: 20vw; border-radius: 10vw;
+}
