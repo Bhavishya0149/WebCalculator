@@ -12,7 +12,8 @@ body{
 }
 
 .button{
-    padding: 2%; margin: 5px 0px;
+/*     padding: 2%;  */
+    margin: 5px 0px;
     border-radius: 50%; width: 5vw; 
     height: 5vw;
 }
